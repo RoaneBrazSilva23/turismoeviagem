@@ -1,0 +1,51 @@
+li,ul,a{
+    list-style: none;
+    margin:0;
+    padding: 0;
+    text-decoration: none;
+    text-align: center;
+}
+#title{
+    color: aqua;
+}
+#menu{
+    background-color: blueviolet;
+padding:20px 50 px;
+justify-content: center;
+}
+li a{
+    background-color: rgb(207, 177, 235);
+    padding: 10px 15px;
+    border-radius: 20px;
+    color:black
+
+}
+ul{
+    text-align: center;
+    display: flex;
+    gap: 30px;
+     flex-wrap:wrap;
+}
+.imagem{
+    display:flex;
+    justify-content: center;
+    width: 40px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color:blue
+}
+h2{
+    text-align:center;
+    
+}
+h3{
+    color:blueviolet
+    background-color:aqua
+}   
+p{
+    color:rgb(red, green, blue)
+
+
+}
